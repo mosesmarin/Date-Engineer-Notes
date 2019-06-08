@@ -1,7 +1,7 @@
 
 
 
->Data Engineer     <----->   Data Scientist
+Data Engineer     <----->   Data Scientist
 (Prepare the data)   <---->     (Analyze the data)
 
 
