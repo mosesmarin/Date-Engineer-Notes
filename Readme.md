@@ -29,7 +29,7 @@ what does a Data Engineer do and what with what tools?
 - Oracle
 - Sql Server
 - PostgreSQL
-
+- Cloud Managed DBs Services
 
 ## Cloud Platforms
 - [AWS](https://aws.amazon.com/) (Amazon)
