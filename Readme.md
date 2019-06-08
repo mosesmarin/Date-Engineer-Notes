@@ -69,7 +69,7 @@ How to start to acquire Cloud Skills
 How to start with Machine Learning and AI?
 =========================================
 
-## 1. Staat with basic presentations 
+## 1. Start with basic presentations 
 
 - What is Machine Learning? (AI Adventures)
 https://www.youtube.com/watch?v=HcqpanDadyQ
@@ -126,7 +126,8 @@ https://docs.microsoft.com/en-us/learn/modules/intro-to-data-science-in-azure/
 - https://www.microsoft.com/en-us/research/project/project-brainwave/
 
 ## 6. Check Microsoft AI school
-- ML Crash Course - 7 MODULES 13 HR - DIFFICULTY: BEGINNER TO INTERMEDIATE.
+
+- ML Crash Course (7 Modules, 13 hrs. beginner - intermediate)
 https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ml-crash-course
 
 ## 7. Watch advanced presentations
