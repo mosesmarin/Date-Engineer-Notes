@@ -180,6 +180,9 @@ https://www.forbes.com/sites/gregoryferenstein/2019/01/28/learning-math-for-mach
 - Udacity's Next Generation Of Machine Learning And Data Science Courses: An Early Review
 https://www.forbes.com/sites/gregoryferenstein/2018/08/20/udacitys-next-generation-of-machine-learning-and-data-science-courses-an-early-review/#6fefbcdc1a17
 
+- Watch Laks explain how error rate decreases as you double the data used to train a Machine Learning model
+https://youtu.be/apdK5-njfks?t=1268
+
 
 -----------
 Other cool things 
