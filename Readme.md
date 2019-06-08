@@ -27,9 +27,9 @@ Data Engineer
 
 
 ## Cloud Platforms
-- AWS
-- GCP               --> Google Certification Professional Data Engineer https://cloud.google.com/certification/data-engineer
-- AZURE
+- AWS [https://aws.amazon.com/] (Amazon)
+- GCP [https://cloud.google.com] (Google)           --> Google Certification Professional Data Engineer https://cloud.google.com/certification/data-engineer
+- AZURE [https://azure.microsoft.com/en-us/] (Microsoft)
 
 ## Dashboards/TimeSeries
 - Datadog
@@ -38,7 +38,8 @@ Data Engineer
 
 ## Online training
 - Cloud Hands on labs (monthly ~55 usd) https://www.qwiklabs.com/
-- unix cloud (monthly ~55usd) https://linuxacademy.com
+- unix cloud (monthly ~55usd) https://linuxacademy.com   (for aws/gcp certifications)
+- a cloud guru (monthly ~55 usd) https://acloud.guru/   (for aws/gcp certifications)
 
 
 ----------
