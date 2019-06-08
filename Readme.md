@@ -27,9 +27,9 @@ Data Engineer
 
 
 ## Cloud Platforms
-- [https://aws.amazon.com/](AWS) (Amazon)
-- [https://cloud.google.com](GCP) (Google)           --> Google Certification Professional Data Engineer https://cloud.google.com/certification/data-engineer
-- [https://azure.microsoft.com/en-us/](AZURE) (Microsoft)
+- [AWS](https://aws.amazon.com/) (Amazon)
+- [GCP](https://cloud.google.com) (Google)           --> Google Certification Professional Data Engineer https://cloud.google.com/certification/data-engineer
+- [AZURE](https://azure.microsoft.com/en-us/) (Microsoft)
 
 ## Dashboards/TimeSeries
 - Datadog
