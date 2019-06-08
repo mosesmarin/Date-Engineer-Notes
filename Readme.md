@@ -48,11 +48,25 @@ For Machine Learning and AI
 ===========================
 
 ## Presentations and examples
+
 - Check videos from last Google I/O event and article by @margaretmz from Google Developer Group
 Specially the section *Getting started with ML*
  https://medium.com/@margaretmz/https-medium-com-margaretmz-attending-google-io-2019-715956f5ec62
 
-- On the Road to Artifitial General Intelligence (Ph.D. Danny Lange from Unity)
+- If you are new to ML, definitely check out these sessions:
+
+ML Zero to Hero (video), by Karmel Allison & Laurence Moroney
+https://www.youtube.com/watch?v=VwVg9jCtqaU
+
+Live Coding A ML Model from Scratch (video), by Sara Robinson.
+https://www.youtube.com/watch?v=_RPHiqF2bSs&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYhsMi&index=32&t=0s
+
+Getting Started with TensorFlow 2.0 (video), by Josh Gordon and Paige Bailey.
+https://www.youtube.com/watch?v=lEljKc9ZtU8
+
+
+- My favorite video about Artificial General Intelligence
+On the Road to Artifitial General Intelligence (Ph.D. Danny Lange from Unity)
  https://youtu.be/sRyZ-XwmgnE
 
 - One example of tensorflow project -- emoji detection
@@ -71,7 +85,7 @@ Azure	https://www.customvision.ai/	https://azure.microsoft.com/en-us/services/co
 
 ## Cloud ML training
 - AWS (free training from Amazon, requires registration with company e-mail )
-..* Main URL of training: https://aws.amazon.com/training/learning-paths/machine-learning/
+Main URL of training: https://aws.amazon.com/training/learning-paths/machine-learning/
 Specific Trainings:
 Machine Learning Data Readiness https://www.aws.training/learningobject/wbc?id=34084
 What is Machine Learning https://www.aws.training/learningobject/video?id=27404
@@ -103,13 +117,11 @@ https://openai.com/
 
 
 -----------
------------
 
 # Quantum computing (free introductory courses)
 https://brilliant.org/courses/quantum-computing/
 
 
------------
 -----------
 other cool things 
 
