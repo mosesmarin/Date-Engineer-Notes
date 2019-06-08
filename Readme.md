@@ -46,14 +46,14 @@ what does a Data Engineer do and what with what tools?
 How to start to acquire Cloud Skills
 ====================================
 ## Online training
-- Cloud Hands on labs (monthly ~55 usd) https://www.qwiklabs.com/ *(Best start point to start aquiring Cloud skills)*
-- unix cloud (monthly ~55usd) https://linuxacademy.com   (for aws/gcp certifications)
-- a cloud guru (monthly ~55 usd) https://acloud.guru/   (for aws/gcp certifications)
+- Cloud Hands on labs (monthly ~55 usd) https://www.qwiklabs.com/ 
+- unix cloud (monthly ~55usd) https://linuxacademy.com   (to prepare for aws/gcp certifications)
+- a cloud guru (monthly ~55 usd) https://acloud.guru/   (to prepare for aws/gcp certifications)
 
 
 
 
-
+----------
 How to start with Machine Learning and AI 
 =========================================
 
