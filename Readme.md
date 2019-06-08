@@ -69,7 +69,7 @@ How to start to acquire Cloud Skills
 How to start with Machine Learning and AI?
 =========================================
 
-## 1. Watch basic presentations 
+## 1. Staart with basic presentations 
 
 - What is Machine Learning? (AI Adventures)
 https://www.youtube.com/watch?v=HcqpanDadyQ
@@ -87,7 +87,7 @@ https://www.youtube.com/watch?v=nKW8Ndu7Mjw
 https://youtu.be/omdlNsIFub8?t=1350
 
 
-## 2. Check longer, more technical videos
+## 2. Check longer introductory videos
 
 - ML Zero to Hero (video), by Karmel Allison & Laurence Moroney
 https://www.youtube.com/watch?v=VwVg9jCtqaU
@@ -125,7 +125,7 @@ https://docs.microsoft.com/en-us/learn/modules/intro-to-data-science-in-azure/
 - https://azure.microsoft.com/en-us/services/cognitive-services/	
 - https://www.microsoft.com/en-us/research/project/project-brainwave/
 
-## 6. Watch at advanced presentations
+## 6. Watch advanced presentations
 
 - Swift for TensorFlow, by James Bradbury and Richard Wei.
 https://www.youtube.com/watch?v=3fJsqGHhlVA
