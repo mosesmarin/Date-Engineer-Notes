@@ -1,7 +1,7 @@
 
 
 
->Data Engineer (Get data ready for analysis)    <----->   Data Scientist (Analyze the data and present a story)
+>Data Engineer (Prepare the data)    <----->   Data Scientist (Analyze the data)
 
 
 Data Engineer
@@ -53,17 +53,11 @@ For Machine Learning and AI
 Specially the section *Getting started with ML*
  https://medium.com/@margaretmz/https-medium-com-margaretmz-attending-google-io-2019-715956f5ec62
 
-- If you are new to ML, definitely check out these sessions:
+- What is Machine Learning? (AI Adventures)
+https://www.youtube.com/watch?v=HcqpanDadyQ
 
-ML Zero to Hero (video), by Karmel Allison & Laurence Moroney
-https://www.youtube.com/watch?v=VwVg9jCtqaU
-
-Live Coding A ML Model from Scratch (video), by Sara Robinson.
-https://www.youtube.com/watch?v=_RPHiqF2bSs&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYhsMi&index=32&t=0s
-
-Getting Started with TensorFlow 2.0 (video), by Josh Gordon and Paige Bailey.
-https://www.youtube.com/watch?v=lEljKc9ZtU8
-
+- The 7 Steps of Machine Learning (AI Adventures)
+https://www.youtube.com/watch?v=nKW8Ndu7Mjw
 
 - My favorite video about Artificial General Intelligence
 On the Road to Artifitial General Intelligence (Ph.D. Danny Lange from Unity)
@@ -71,6 +65,21 @@ On the Road to Artifitial General Intelligence (Ph.D. Danny Lange from Unity)
 
 - One example of tensorflow project -- emoji detection
  https://twitter.com/bourdakos1/status/1125436388026060801
+
+- Free Hands on Qwiklabs examples
+https://www.qwiklabs.com/focuses/577?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A2%2C%22has_search%22%3Afalse%7D&parent=catalog
+
+https://www.qwiklabs.com/focuses/599?catalog_rank=%7B%22rank%22%3A17%2C%22num_filters%22%3A2%2C%22has_search%22%3Afalse%7D&parent=catalog
+
+
+- ML Zero to Hero (video), by Karmel Allison & Laurence Moroney
+https://www.youtube.com/watch?v=VwVg9jCtqaU
+
+- Live Coding A ML Model from Scratch (video), by Sara Robinson.
+https://www.youtube.com/watch?v=_RPHiqF2bSs&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYhsMi&index=32&t=0s
+
+- Getting Started with TensorFlow 2.0 (video), by Josh Gordon and Paige Bailey.
+https://www.youtube.com/watch?v=lEljKc9ZtU8
 
 
 
