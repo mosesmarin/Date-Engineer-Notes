@@ -184,8 +184,7 @@ Other cool things
 https://brilliant.org/courses/quantum-computing/
 
 
-#Animated gifs done with Processing
-==================================
-https://twitter.com/etiennejcb/status/1129519939193397248
-https://twitter.com/etiennejcb/status/1132314742503161856
-https://processing.org/examples/
+## Animated gifs done with Processing
+- https://twitter.com/etiennejcb/status/1129519939193397248
+- https://twitter.com/etiennejcb/status/1132314742503161856
+- https://processing.org/examples/
