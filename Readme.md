@@ -65,16 +65,13 @@ How to start to acquire Cloud Skills
 
 
 ----------
-How to start with Machine Learning and AI 
+
+How to start with Machine Learning and AI?
 =========================================
 
 ## Basics on Machine Learning and AI
 
-## Presentations and examples
-
-- Check videos from last Google I/O event and article by @margaretmz from Google Developer Group
-Specially the section *Getting started with ML*
- https://medium.com/@margaretmz/https-medium-com-margaretmz-attending-google-io-2019-715956f5ec62
+## 1. Watch basic presentations 
 
 - What is Machine Learning? (AI Adventures)
 https://www.youtube.com/watch?v=HcqpanDadyQ
@@ -89,10 +86,7 @@ On the Road to Artifitial General Intelligence (Ph.D. Danny Lange from Unity)
 - One example of tensorflow project -- emoji detection
  https://twitter.com/bourdakos1/status/1125436388026060801
 
-- Free Hands on Qwiklabs examples
-https://www.qwiklabs.com/focuses/577?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A2%2C%22has_search%22%3Afalse%7D&parent=catalog
-
-https://www.qwiklabs.com/focuses/599?catalog_rank=%7B%22rank%22%3A17%2C%22num_filters%22%3A2%2C%22has_search%22%3Afalse%7D&parent=catalog
+## 2. Check longer, more technical videos
 
 
 - ML Zero to Hero (video), by Karmel Allison & Laurence Moroney
@@ -103,6 +97,35 @@ https://www.youtube.com/watch?v=_RPHiqF2bSs&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYh
 
 - Getting Started with TensorFlow 2.0 (video), by Josh Gordon and Paige Bailey.
 https://www.youtube.com/watch?v=lEljKc9ZtU8
+
+
+## 3. Try the 3 major cloud platforms with hands on labs at Qwiklabs and azuredevops 
+
+- (free, requires registration to Qwiklabs, 30 min) Google Cloud Platform (GCP) BigQuery: Qwik Start - Command Line
+https://www.qwiklabs.com/focuses/599?catalog_rank=%7B%22rank%22%3A17%2C%22num_filters%22%3A2%2C%22has_search%22%3Afalse%7D&parent=catalog
+
+- (free, requires registration to Qwiklabs, 30 min) Google Cloud Platform (GCP) Data Loss Prevention: Qwik Start - Command Line
+https://www.qwiklabs.com/focuses/599?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=2708848
+
+- (free, requires registration to Qwiklabs, 1hr) Amazon Web Services (AWS) Introduction to Amazon Simple Storage Service (S3)
+https://www.qwiklabs.com/focuses/278?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A2%2C%22has_search%22%3Afalse%7D&parent=catalog
+
+- (free, requires registration to AZURE, uses free 12 month trial) Microsoft AZURE - Provision and use an Azure Data Science Virtual Machine
+https://docs.microsoft.com/en-us/learn/modules/provision-and-use-azure-dsvm/index
+
+
+## 4. Read about Data Science and training Models
+
+- Introduction to Data Science in Azure
+https://docs.microsoft.com/en-us/learn/modules/intro-to-data-science-in-azure/
+
+## 5
+
+- Check videos from last Google I/O event and article by @margaretmz from Google Developer Group
+Specially the section *Getting started with ML*
+ https://medium.com/@margaretmz/https-medium-com-margaretmz-attending-google-io-2019-715956f5ec62
+
+
 
 
 
