@@ -6,9 +6,9 @@
 
 Data Engineer
 =============
-Prepare data for data science, business intelligence and ml projects
-Desing, implement pipelines, modern etls, datalakes
-S3 buckets, Streams, Datawarehouse
+Prepare data for data science, business intelligence and Machine Learning (ML) projects.
+Design and implement pipelines (data transformation processes), modern ETLs and data lakes (S3 buckets).
+Work with data warehouses and different data sources like Streams (bounded or unbounded).
 
 
 ## Languages
