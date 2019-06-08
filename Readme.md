@@ -164,13 +164,18 @@ https://www.forbes.com/sites/gregoryferenstein/2018/08/20/udacitys-next-generati
 
 -----------
 
-# Quantum computing (free introductory courses)
-https://brilliant.org/courses/quantum-computing/
 
 
 -----------
-other cool things 
+Other cool things 
+==================
 
-# Animated gifs
-===============
+## Quantum computing (free introductory courses)
+https://brilliant.org/courses/quantum-computing/
+
+
+#Animated gifs done with Processing
+==================================
 https://twitter.com/etiennejcb/status/1129519939193397248
+https://twitter.com/etiennejcb/status/1132314742503161856
+https://processing.org/examples/
