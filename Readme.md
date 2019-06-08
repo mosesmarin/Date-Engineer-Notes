@@ -125,7 +125,11 @@ https://docs.microsoft.com/en-us/learn/modules/intro-to-data-science-in-azure/
 - https://azure.microsoft.com/en-us/services/cognitive-services/	
 - https://www.microsoft.com/en-us/research/project/project-brainwave/
 
-## 6. Watch advanced presentations
+## 6. Check Microsoft AI school
+- ML Crash Course - 7 MODULES 13 HR - DIFFICULTY: BEGINNER TO INTERMEDIATE
+https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ml-crash-course
+
+## 7. Watch advanced presentations
 
 - Swift for TensorFlow, by James Bradbury and Richard Wei.
 https://www.youtube.com/watch?v=3fJsqGHhlVA
@@ -142,7 +146,7 @@ https://www.youtube.com/watch?v=drYM04t57tU&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYh
 - Deep Learning to Solve Challenging Problems (video), by Jeff Dean.
 https://www.youtube.com/watch?v=rP8CGyDbxBY&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYhsMi&index=16&t=0s
 
-## 7. Check Tensorflow tutorials
+## 8. Check Tensorflow tutorials
 - Tensor Flow Tutorials
 https://www.tensorflow.org/tutorials/
 
