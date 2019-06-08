@@ -6,9 +6,9 @@
 
 Data Engineer
 =============
-Prepare data for data science, business intelligence and Machine Learning (ML) projects.
-Design and implement pipelines (data transformation processes), modern ETLs (Extract-Transform-Load systems) and data lakes (S3 buckets).
-Work with data warehouses and different data sources like Streams (bounded or unbounded).
+- Prepare data for data science, business intelligence and Machine Learning (ML) projects.
+- Design and implement pipelines (data transformation processes), modern ETLs (Extract-Transform-Load systems) and data lakes (S3 buckets).
+- Work with data warehouses and different data sources like Streams (bounded or unbounded).
 
 
 ## Languages
@@ -22,13 +22,13 @@ Work with data warehouses and different data sources like Streams (bounded or un
 - Kubernetes
 - Kafka
 - Flink
-- Gitlab
+- Git
 - Chef/Terraform/Pulumi
 
 
 ## Cloud Platforms
 - AWS
-- GCP               ->Data Engineer
+- GCP               --> Google Certification Professional Data Engineer https://cloud.google.com/certification/data-engineer
 - AZURE
 
 ## Dashboards/TimeSeries
