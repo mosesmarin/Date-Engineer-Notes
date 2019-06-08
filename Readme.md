@@ -126,8 +126,8 @@ https://docs.microsoft.com/en-us/learn/modules/intro-to-data-science-in-azure/
 - https://www.microsoft.com/en-us/research/project/project-brainwave/
 
 ## 6. Check Microsoft AI school
-- ML Crash Course - 7 MODULES 13 HR - DIFFICULTY: BEGINNER TO INTERMEDIATE
-  https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ml-crash-course
+- ML Crash Course - 7 MODULES 13 HR - DIFFICULTY: BEGINNER TO INTERMEDIATE.
+https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ml-crash-course
 
 ## 7. Watch advanced presentations
 
