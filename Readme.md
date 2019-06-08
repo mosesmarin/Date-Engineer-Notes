@@ -16,6 +16,7 @@ Work with data warehouses and different data sources like Streams (bounded or un
 - unix scripts
 - golang
 - java
+- sql
 
 ## Tools
 - Kubernetes
