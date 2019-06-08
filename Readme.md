@@ -37,12 +37,11 @@ Data Engineer
 
 
 ## Online training
-- Cloud Hands on labs (monthly ~55 usd) https://www.qwiklabs.com/
+- Cloud Hands on labs (monthly ~55 usd) https://www.qwiklabs.com/ *(Best start point to start aquiring Cloud skills)*
 - unix cloud (monthly ~55usd) https://linuxacademy.com   (for aws/gcp certifications)
 - a cloud guru (monthly ~55 usd) https://acloud.guru/   (for aws/gcp certifications)
 
 
-----------
 ----------
 
 For Machine Learning and AI
