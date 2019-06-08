@@ -1,11 +1,11 @@
 
 
 
->Data Engineer (Prepare the data)    <----->   Data Scientist (Analyze the data)
+>Data Engineer (Get data ready for analysis)    <----->   Data Scientist (Analyze the data and present a story)
 
 
-Data Engineer
-=============
+what does a Data Engineer do and what with what tools?
+========================================================
 - Prepare data for data science, business intelligence and Machine Learning (ML) projects.
 - Design and implement pipelines (data transformation processes), modern ETLs (Extract-Transform-Load systems) and data lakes (S3 buckets).
 - Work with data warehouses and different data sources like Streams (bounded or unbounded).
@@ -25,6 +25,11 @@ Data Engineer
 - Git
 - Chef/Terraform/Pulumi
 
+## DBs
+- Oracle
+- Sql Server
+- PostgreSQL
+
 
 ## Cloud Platforms
 - [AWS](https://aws.amazon.com/) (Amazon)
@@ -36,16 +41,23 @@ Data Engineer
 - Splunk
 
 
+----------
+
+How to start to acquire Cloud Skills
+====================================
 ## Online training
 - Cloud Hands on labs (monthly ~55 usd) https://www.qwiklabs.com/ *(Best start point to start aquiring Cloud skills)*
 - unix cloud (monthly ~55usd) https://linuxacademy.com   (for aws/gcp certifications)
 - a cloud guru (monthly ~55 usd) https://acloud.guru/   (for aws/gcp certifications)
 
 
-----------
 
-For Machine Learning and AI
-===========================
+
+
+How to start with Machine Learning and AI 
+=========================================
+
+## Basics on Machine Learning and AI
 
 ## Presentations and examples
 
@@ -82,6 +94,9 @@ https://www.youtube.com/watch?v=_RPHiqF2bSs&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYh
 https://www.youtube.com/watch?v=lEljKc9ZtU8
 
 
+
+Tools for Machine Learning
+==========================
 
 ## Tools
 - [Tensorflow](https://www.tensorflow.org/). Tensor Flow Tutorials: https://www.tensorflow.org/tutorials/
@@ -135,4 +150,5 @@ https://brilliant.org/courses/quantum-computing/
 other cool things 
 
 # Animated gifs
+===============
 https://twitter.com/etiennejcb/status/1129519939193397248
