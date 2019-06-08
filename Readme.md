@@ -119,7 +119,13 @@ https://docs.microsoft.com/en-us/learn/modules/provision-and-use-azure-dsvm/inde
 - Introduction to Data Science in Azure
 https://docs.microsoft.com/en-us/learn/modules/intro-to-data-science-in-azure/
 
-## 5. Look at advanced presentations
+## 5. Check Azure AI tools
+- https://aidemos.microsoft.com/
+- https://www.customvision.ai/	
+- https://azure.microsoft.com/en-us/services/cognitive-services/	
+- https://www.microsoft.com/en-us/research/project/project-brainwave/
+
+## 6. Watch at advanced presentations
 
 - Swift for TensorFlow, by James Bradbury and Richard Wei.
 https://www.youtube.com/watch?v=3fJsqGHhlVA
@@ -136,22 +142,16 @@ https://www.youtube.com/watch?v=drYM04t57tU&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYh
 - Deep Learning to Solve Challenging Problems (video), by Jeff Dean.
 https://www.youtube.com/watch?v=rP8CGyDbxBY&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYhsMi&index=16&t=0s
 
-## 6. Check Tensorflow tutorials
-Tensor Flow Tutorials
+## 7. Check Tensorflow tutorials
+- Tensor Flow Tutorials
 https://www.tensorflow.org/tutorials/
 
-## 7. Check Azure AI tools
-https://aidemos.microsoft.com/
-https://www.customvision.ai/	
-https://azure.microsoft.com/en-us/services/cognitive-services/	
-https://www.microsoft.com/en-us/research/project/project-brainwave/
 
-
-## 8. Register at MTURK to findout how to reduce labeling cost by up to 70%
+## 9. Register at MTURK to findout how to reduce labeling cost by up to 70%
 https://worker.mturk.com/
 
 
-## Other Resources
+## 10. Check Other Resources available
 - "ONNX (Open Neural Network Exchange) is a format for deep learning models that allows interoperability between different open source AI framework"
 https://onnx.ai
 
