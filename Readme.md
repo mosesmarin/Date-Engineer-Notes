@@ -4,7 +4,7 @@
 >Data Engineer (Get data ready for analysis)    <----->   Data Scientist (Analyze the data and present a story)
 
 
-what does a Data Engineer do and what with what tools?
+what does a Data Engineer do and with what tools?
 ========================================================
 - Prepare data for data science, business intelligence and Machine Learning (ML) projects.
 - Design and implement pipelines (data transformation processes), modern ETLs (Extract-Transform-Load systems) and data lakes (S3 buckets).
