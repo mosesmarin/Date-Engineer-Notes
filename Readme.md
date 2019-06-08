@@ -1,7 +1,7 @@
 
 
 
->Data Engineer (Prepare the data)    <----->   Data Scientist (Analyze the data)
+>Data Engineer (Get data ready for analysis)    <----->   Data Scientist (Analyze the data and present a story)
 
 
 Data Engineer
