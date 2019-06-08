@@ -69,10 +69,10 @@ Other cool things
 ==================
 
 - Quantum computing (free introductory courses)
-https://brilliant.org/courses/quantum-computing/
+    - https://brilliant.org/courses/quantum-computing/
 
 
 - Animated gifs done with Processing
--- https://twitter.com/etiennejcb/status/1129519939193397248
--- https://twitter.com/etiennejcb/status/1132314742503161856
--- https://processing.org/examples/
+    - https://twitter.com/etiennejcb/status/1129519939193397248
+    - https://twitter.com/etiennejcb/status/1132314742503161856
+    - https://processing.org/examples/
