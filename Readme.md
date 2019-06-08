@@ -79,8 +79,7 @@ https://www.youtube.com/watch?v=HcqpanDadyQ
 - The 7 Steps of Machine Learning (AI Adventures)
 https://www.youtube.com/watch?v=nKW8Ndu7Mjw
 
-- My favorite video about Artificial General Intelligence
-On the Road to Artifitial General Intelligence (Ph.D. Danny Lange from Unity)
+- On the Road to Artifitial General Intelligence (Ph.D. Danny Lange from Unity)
  https://youtu.be/sRyZ-XwmgnE
 
 - One example of tensorflow project -- emoji detection
