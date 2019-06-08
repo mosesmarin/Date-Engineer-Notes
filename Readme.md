@@ -69,8 +69,6 @@ How to start to acquire Cloud Skills
 How to start with Machine Learning and AI?
 =========================================
 
-## Basics on Machine Learning and AI
-
 ## 1. Watch basic presentations 
 
 - What is Machine Learning? (AI Adventures)
@@ -85,8 +83,11 @@ https://www.youtube.com/watch?v=nKW8Ndu7Mjw
 - One example of tensorflow project -- emoji detection
  https://twitter.com/bourdakos1/status/1125436388026060801
 
-## 2. Check longer, more technical videos
+- 5 min presentation by Ben Hamm using AI and [Amazon DeepLens](https://aws.amazon.com/deeplens/) smart cam
+https://youtu.be/omdlNsIFub8?t=1350
 
+
+## 2. Check longer, more technical videos
 
 - ML Zero to Hero (video), by Karmel Allison & Laurence Moroney
 https://www.youtube.com/watch?v=VwVg9jCtqaU
@@ -98,7 +99,7 @@ https://www.youtube.com/watch?v=_RPHiqF2bSs&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYh
 https://www.youtube.com/watch?v=lEljKc9ZtU8
 
 
-## 3. Try the 3 major cloud platforms with hands on labs at Qwiklabs and azuredevops 
+## 3. Try the 3 major cloud platforms with hands on labs at Qwiklabs and microsoft portal 
 
 - (free, requires registration to Qwiklabs, 30 min) Google Cloud Platform (GCP) BigQuery: Qwik Start - Command Line
 https://www.qwiklabs.com/focuses/599?catalog_rank=%7B%22rank%22%3A17%2C%22num_filters%22%3A2%2C%22has_search%22%3Afalse%7D&parent=catalog
@@ -118,40 +119,35 @@ https://docs.microsoft.com/en-us/learn/modules/provision-and-use-azure-dsvm/inde
 - Introduction to Data Science in Azure
 https://docs.microsoft.com/en-us/learn/modules/intro-to-data-science-in-azure/
 
-## 5
+## 5. Look at advanced presentations
 
-- Check videos from last Google I/O event and article by @margaretmz from Google Developer Group
-Specially the section *Getting started with ML*
- https://medium.com/@margaretmz/https-medium-com-margaretmz-attending-google-io-2019-715956f5ec62
+- Swift for TensorFlow, by James Bradbury and Richard Wei.
+https://www.youtube.com/watch?v=3fJsqGHhlVA
 
+- Federated Learning: Machine Learning on Decentralized Data, by Emily Glanz and Daniel Ramage.
+https://www.youtube.com/watch?v=89BGjQYA0uE&list=PLQY2H8rRoyvy2_vtWvCpQWM9GJXNTa5rV&index=11
 
+- Cutting Edge TensorFlow: New Techniques, by Mike Bendensky, Sofien Bouaziz, Elie Bursztein and Josh Dillon.
+https://www.youtube.com/watch?v=Un0JDL3i5Hg
 
+- TensorFlow Extended: ML Pipelines and Model Understanding, by Kevin Haas , Tulsee Doshi and Konstantinos Katsiapis.
+https://www.youtube.com/watch?v=drYM04t57tU&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYhsMi&index=86&t=0s
 
+- Deep Learning to Solve Challenging Problems (video), by Jeff Dean.
+https://www.youtube.com/watch?v=rP8CGyDbxBY&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYhsMi&index=16&t=0s
 
-Tools for Machine Learning
-==========================
+## 6. Check Tensorflow tutorials
+Tensor Flow Tutorials
+https://www.tensorflow.org/tutorials/
 
-## Tools
-- [Tensorflow](https://www.tensorflow.org/). Tensor Flow Tutorials: https://www.tensorflow.org/tutorials/
-- Python
-
-## Cloud ML tools
-AWS
-GCP		
-Azure	https://www.customvision.ai/	https://azure.microsoft.com/en-us/services/cognitive-services/	https://www.microsoft.com/en-us/research/project/project-brainwave/
-
-## Cloud ML training
-- AWS (free training from Amazon, requires registration with company e-mail )
-Main URL of training: https://aws.amazon.com/training/learning-paths/machine-learning/
-Specific Trainings:
-Machine Learning Data Readiness https://www.aws.training/learningobject/wbc?id=34084
-What is Machine Learning https://www.aws.training/learningobject/video?id=27404
-What is Artificial Intelligence https://www.aws.training/learningobject/video?id=27394
-Developing Machine Learning Applications https://www.aws.training/learningobject/curriculum?id=27243
+## 7. Check Azure AI tools
+https://aidemos.microsoft.com/
+https://www.customvision.ai/	
+https://azure.microsoft.com/en-us/services/cognitive-services/	
+https://www.microsoft.com/en-us/research/project/project-brainwave/
 
 
-
-## Reduce labeling cost by up to 70%
+## 8. Register at MTURK to findout how to reduce labeling cost by up to 70%
 https://worker.mturk.com/
 
 
@@ -170,22 +166,14 @@ http://vmls-book.stanford.edu/vmls.pdf
 (Elon Musk is one of the founders)
 https://openai.com/
 
-
 - Courses with a cost
 https://www.deeplearning.ai/ai-for-everyone/
-
 
 - Learning Math For Machine Learning And Artificial Intelligence Programming
 https://www.forbes.com/sites/gregoryferenstein/2019/01/28/learning-math-for-machine-learning-and-artificial-intelligence-programming/#27cb96e12fa2
 
 - Udacity's Next Generation Of Machine Learning And Data Science Courses: An Early Review
 https://www.forbes.com/sites/gregoryferenstein/2018/08/20/udacitys-next-generation-of-machine-learning-and-data-science-courses-an-early-review/#6fefbcdc1a17
-
-
-
-
------------
-
 
 
 -----------
