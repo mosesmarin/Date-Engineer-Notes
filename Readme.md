@@ -69,7 +69,7 @@ How to start to acquire Cloud Skills
 How to start with Machine Learning and AI?
 =========================================
 
-## 1. Staart with basic presentations 
+## 1. Staat with basic presentations 
 
 - What is Machine Learning? (AI Adventures)
 https://www.youtube.com/watch?v=HcqpanDadyQ
