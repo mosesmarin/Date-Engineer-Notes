@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=_RPHiqF2bSs&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYh
 https://www.youtube.com/watch?v=lEljKc9ZtU8
 
 
-## 3. Try the 3 major cloud platforms with hands on labs at Qwiklabs and microsoft portal 
+## 3. Try the 3 major cloud platforms with hands on labs at Qwiklabs and Microsoft portal 
 
 - (free, requires registration to Qwiklabs, 30 min) Google Cloud Platform (GCP) BigQuery: Qwik Start - Command Line
 https://www.qwiklabs.com/focuses/599?catalog_rank=%7B%22rank%22%3A17%2C%22num_filters%22%3A2%2C%22has_search%22%3Afalse%7D&parent=catalog
@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=rP8CGyDbxBY&list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYh
 https://www.tensorflow.org/tutorials/
 
 
-## 9. Register at MTURK to findout how to reduce labeling cost by up to 70%
+## 9. Register at MTURK to findout how to reduce labeling cost by up to 70% and make $$ resolving human intelligence tasks
 https://worker.mturk.com/
 
 
@@ -115,4 +115,12 @@ https://www.forbes.com/sites/gregoryferenstein/2018/08/20/udacitys-next-generati
 
 - Watch Laks explain how error rate decreases as you double the data used to train a Machine Learning model
 https://youtu.be/apdK5-njfks?t=1268
+
+## 11. Do you have data and you want to use it for prediction or classification? Train an existing managed ML model.
+- AWS
+
+- GCP - Cloud ML engine
+
+- AZURE
+
 
