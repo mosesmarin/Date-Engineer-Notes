@@ -40,6 +40,17 @@ what does a Data Engineer do and what with what tools?
 - Datadog
 - Splunk
 
+## Key Topics
+- Parquet - column-oriented binary file format https://en.wikipedia.org/wiki/Apache_Parquet
+- ORC - The Optimized Row Columnar (ORC) file format provides a highly efficient way to store Hive data cwiki.apache.org/confluence/display/Hive/LanguageManual+ORC
+- Avro - https://en.wikipedia.org/wiki/Apache_Avro
+
+- Applying Graph Theory to Infrastructure as Code
+https://www.youtube.com/watch?v=Ce3RNfRbdZ0
+
+
+- Protobufs!
+https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/
 
 ----------
 
@@ -136,6 +147,17 @@ http://vmls-book.stanford.edu/vmls.pdf
 - OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity.
 (Elon Musk is one of the founders)
 https://openai.com/
+
+
+- Courses with a cost
+https://www.deeplearning.ai/ai-for-everyone/
+
+
+- Learning Math For Machine Learning And Artificial Intelligence Programming
+https://www.forbes.com/sites/gregoryferenstein/2019/01/28/learning-math-for-machine-learning-and-artificial-intelligence-programming/#27cb96e12fa2
+
+- Udacity's Next Generation Of Machine Learning And Data Science Courses: An Early Review
+https://www.forbes.com/sites/gregoryferenstein/2018/08/20/udacitys-next-generation-of-machine-learning-and-data-science-courses-an-early-review/#6fefbcdc1a17
 
 
 
