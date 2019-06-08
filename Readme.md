@@ -49,21 +49,34 @@ For Machine Learning and AI
 
 ## Presentations and examples
 - Check videos from last Google I/O event and article by @margaretmz from Google Developer Group
+Specially the section *Getting started with ML*
  https://medium.com/@margaretmz/https-medium-com-margaretmz-attending-google-io-2019-715956f5ec62
 
-- emoji detection with tensorflow
+- On the Road to Artifitial General Intelligence (Ph.D. Danny Lange from Unity)
+ https://youtu.be/sRyZ-XwmgnE
+
+- One example of tensorflow project -- emoji detection
  https://twitter.com/bourdakos1/status/1125436388026060801
 
 
+
 ## Tools
-Tensorflow	
-Python
+- [Tensorflow](https://www.tensorflow.org/). Tensor Flow Tutorials: https://www.tensorflow.org/tutorials/
+- Python
 
 ## Cloud ML tools
 AWS
 GCP		
 Azure	https://www.customvision.ai/	https://azure.microsoft.com/en-us/services/cognitive-services/	https://www.microsoft.com/en-us/research/project/project-brainwave/
 
+## Cloud ML training
+- AWS (free training from Amazon, requires registration with company e-mail )
+..* Main URL of training: https://aws.amazon.com/training/learning-paths/machine-learning/
+Specific Trainings:
+Machine Learning Data Readiness https://www.aws.training/learningobject/wbc?id=34084
+What is Machine Learning https://www.aws.training/learningobject/video?id=27404
+What is Artificial Intelligence https://www.aws.training/learningobject/video?id=27394
+Developing Machine Learning Applications https://www.aws.training/learningobject/curriculum?id=27243
 
 
 
