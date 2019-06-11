@@ -38,7 +38,7 @@ what does a Data Engineer do and with what tools?
 - [AZURE](https://azure.microsoft.com/en-us/) (Microsoft)
 
 ## Dashboards/TimeSeries
-- Datadog (For Telemtry / Metrics)
+- Datadog (For Telemetry / Metrics)
 - Splunk (For Logging / Log analysis)
 
 ## Key Topics
