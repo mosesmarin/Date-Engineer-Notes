@@ -30,6 +30,7 @@ what does a Data Engineer do and with what tools?
 - Sql Server
 - PostgreSQL
 - Cloud Managed DBs Services
+- MongoDB, Cassandra, DynamoDB (NoSQL)
 
 ## Cloud Platforms
 - [AWS](https://aws.amazon.com/) (Amazon)
@@ -37,8 +38,8 @@ what does a Data Engineer do and with what tools?
 - [AZURE](https://azure.microsoft.com/en-us/) (Microsoft)
 
 ## Dashboards/TimeSeries
-- Datadog
-- Splunk
+- Datadog (For Telemtry / Metrics)
+- Splunk (For Logging / Log analysis)
 
 ## Key Topics
 - Parquet - column-oriented binary file format https://en.wikipedia.org/wiki/Apache_Parquet
